@@ -12,9 +12,14 @@
 
 技术链接：
 
-https://xz.aliyun.com/t/15081
+[https://xz.aliyun.com/t/15081](https://xz.aliyun.com/t/15081)
 
-https://xz.aliyun.com/t/15081
+[https://xz.aliyun.com/t/15096](https://xz.aliyun.com/t/15081)
 
 shellcode开发：
-https://github.com/yinsel/ShellcodeDev
+
+[https://github.com/yinsel/ShellcodeDev](https://github.com/yinsel/ShellcodeDev)
+
+检测方式：
+
+[https://key08.com/index.php/2024/08/03/1949.html](https://key08.com/index.php/2024/08/03/1949.html)
