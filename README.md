@@ -10,7 +10,22 @@
 
 本工具仅限用于合法的渗透测试，请勿用于违法行为，因本工具造成的任何损失由使用者自行承担。
 
+360：
+
 ![image](https://github.com/user-attachments/assets/1d5bf6be-cdb7-4bb8-9745-6cd8db46eca7)
+
+火绒：
+
+![image](https://github.com/user-attachments/assets/21705624-785b-4465-a3e6-02279d9f3cfc)
+
+Windows Defender：
+
+![image](https://github.com/user-attachments/assets/cdff7863-e1c3-49b2-8e3e-b311034b011d)
+
+卡巴斯基企业版：
+
+![image](https://github.com/user-attachments/assets/df17ab1a-8048-47f0-954b-e245ab62b62f)
+
 
 ## 参考链接
 
