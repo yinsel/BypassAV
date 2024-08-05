@@ -16,7 +16,7 @@
 
 [https://xz.aliyun.com/t/15081](https://xz.aliyun.com/t/15081)
 
-[https://xz.aliyun.com/t/15096](https://xz.aliyun.com/t/15081)
+[https://xz.aliyun.com/t/15096](https://xz.aliyun.com/t/15096)
 
 shellcode开发：
 
