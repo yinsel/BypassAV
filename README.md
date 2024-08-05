@@ -1,6 +1,6 @@
 # BypassAV
 
-对`WeChat.exe`进行Patch，实现了从文件加载`shellcode`，无任何加密，请使用[Sgn](https://github.com/EgeBalci/sgn)项目对`shellcode`进行编码。
+对`WeChat.exe`进行Patch，为保证免杀效果，暂不开源实现的shellcode，可使用[此模板](https://github.com/yinsel/ShellcodeDev)进行编写，实现了从文件加载`shellcode`，无任何加密，请使用[Sgn](https://github.com/EgeBalci/sgn)项目对`shellcode`进行编码。
 
 ## 使用方法
 
