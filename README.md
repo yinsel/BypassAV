@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-使用[PengCode](https://github.com/Mephostophiles/PengCode)、[donut](https://github.com/TheWover/donut)、[pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode)等工具将`fscan`、`mimikatz`等后渗透工具转为`shellcode`或者在Webshell场景下需要上线C2的`shellcode`并使用[Sgn](https://github.com/EgeBalci/sgn)进行编码并重命名为`bin`，直接运行即可。
+使用仓库中`EXEToShellcode`或者[donut](https://github.com/TheWover/donut)、[pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode)等工具将`fscan`、`mimikatz`等后渗透工具转为`shellcode`或者在Webshell场景下需要上线C2的`shellcode`并使用[Sgn](https://github.com/EgeBalci/sgn)进行编码以规避查杀，并重命名为`bin`，直接运行即可。
 
 **注：请确保你转换后的shellcode能正常运行。**
 
