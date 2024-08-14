@@ -10,6 +10,19 @@
 
 本工具仅限用于合法的渗透测试，请勿用于违法行为，因本工具造成的任何损失由使用者自行承担。
 
+## 更新记录
+
+**2024.08.14---v1.3 新增32位白文件**
+
+**2024.08.14---v1.2 发布至release**
+
+**2024.08.14---v1.1 使用sgn编码shellcode**
+
+**2024.08.14---v1.0 初次发布**
+
+**如有问题，可直接在issue提问。**
+
+## 杀软测试（2024.08.05）
 360：
 
 ![image](https://github.com/user-attachments/assets/1d5bf6be-cdb7-4bb8-9745-6cd8db46eca7)
@@ -42,4 +55,3 @@ shellcode开发：
 检测方式：
 
 [https://key08.com/index.php/2024/08/03/1949.html](https://key08.com/index.php/2024/08/03/1949.html)
-
