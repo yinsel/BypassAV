@@ -2,6 +2,8 @@
 
 对各种白文件进行Patch，以便绕过AV（shellcode已开源，可以根据需求自行修改），也可使用[此模板](https://github.com/yinsel/ShellcodeDev)进行编写，实现了从文件加载`shellcode`，无任何加密，请使用[Sgn](https://github.com/EgeBalci/sgn)项目对`shellcode`进行编码。
 
+**360 环境下的webshell，默认情况下无法通过常规的命令行执行exe，会出现拒绝访问，与该项目本身的免杀无关，属于行为监控。**
+
 ## 使用方法
 
 使用仓库中`EXEToShellcode`或者[donut](https://github.com/TheWover/donut)、[pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode)等工具将`fscan`、`mimikatz`等后渗透工具转为`shellcode`或者在Webshell场景下需要上线C2的`shellcode`并使用[Sgn](https://github.com/EgeBalci/sgn)进行编码以规避查杀，并重命名为`bin`，直接运行即可。
