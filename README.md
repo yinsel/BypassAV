@@ -1,5 +1,11 @@
 # BypassAV
 
+<p>
+<img src="https://img.shields.io/github/stars/yinsel/BypassAV?style=flat" alt="GitHub Repo stars"/>
+<img src="https://img.shields.io/github/downloads/yinsel/BypassAV/total?style=flat" alt="GitHub Downloads (all assets, all releases)"/>
+<img alt="GitHub Release" src="https://img.shields.io/github/release/yinsel/BypassAV"/>
+<p>
+
 对各种白文件进行Patch，以便绕过AV（shellcode已开源，可以根据需求自行修改），也可使用[此模板](https://github.com/yinsel/ShellcodeDev)进行编写，实现了从文件加载`shellcode`，无任何加密，请使用[Sgn](https://github.com/EgeBalci/sgn)项目对`shellcode`进行编码。
 
 **360 环境下的webshell，默认情况下无法通过常规的命令行执行exe，会出现拒绝访问，与该项目本身的免杀无关，属于行为监控。**
